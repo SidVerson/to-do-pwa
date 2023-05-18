@@ -8,37 +8,37 @@
     "start_url": ".",
     "icons": [
         {
-            "src": "/icons/48.png",
+            "src": "/to-do-pwa/icons/48.png",
             "sizes": "48x48",
             "purpose": "any maskable"
         },
         {
-            "src": "/icons/72.png",
+            "src": "/to-do-pwa/icons/72.png",
             "sizes": "72x72",
             "purpose": "any maskable"
         },
         {
-            "src": "/icons/96.png",
+            "src": "/to-do-pwa/icons/96.png",
             "sizes": "96x96",
             "purpose": "any maskable"
         },
         {
-            "src": "/icons/128.png",
+            "src": "/to-do-pwa/icons/128.png",
             "sizes": "128x128",
             "purpose": "any maskable"
         },
         {
-            "src": "/icons/192.png",
+            "src": "/to-do-pwa/icons/192.png",
             "sizes": "192x192",
             "purpose": "any maskable"
         },
         {
-            "src": "/icons/384.png",
+            "src": "/to-do-pwa/icons/384.png",
             "sizes": "384x384",
             "purpose": "any maskable"
         },
         {
-            "src": "/icons/512.png",
+            "src": "/to-do-pwa/icons/512.png",
             "sizes": "512x512",
             "purpose": "any maskable"
         }
